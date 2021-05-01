@@ -1,10 +1,6 @@
 <p align="center">
         <p align="center">
-            <style>
-                    p {
-                        color: red;
-                    }
-            </style>
+
             <p align="center"><em>o/</em></p>
         </p>
         <p align="center">
