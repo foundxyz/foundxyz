@@ -11,7 +11,7 @@
                 <img align="center" src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=python&logoColor=white"/>
             </a> &nbsp;  
             <a align="center">
-                <img align="center" src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=ruby&logoColor=white"/>
+                <img align="center" src="https://img.shields.io/badge/JS-blue?&style=for-the-badge&logo=javascript&logoColor=white"/>
             </a> &nbsp;
         <br>
         </p>
